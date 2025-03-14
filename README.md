@@ -6,6 +6,8 @@ One of the pioneers in this space is Themeforest, a leading digital marketplace 
 The shift from traditional commerce to digital platforms has been accelerated by advancements in technology and changes in consumer behavior. Online marketplaces offer unparalleled convenience, allowing users to browse, compare, and purchase products from the comfort of their homes.
 
 For digital products, the benefits are even more pronounced. Buyers can instantly download their purchases, while sellers can reach a global audience without the need for physical inventory or shipping logistics. This has created a win-win situation for all parties involved.
+![themeforest clone](https://github.com/user-attachments/assets/2f37f2a5-24cc-49e1-8ccc-83179d3a7d70)
+
 <h2><b>Benefits of Creating a Digital Marketplace</b></h2>
 <h3><b>1. For Sellers:</b></h3>
 Access to a global audience.
